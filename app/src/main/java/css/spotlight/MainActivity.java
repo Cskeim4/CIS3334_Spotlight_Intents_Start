@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     Button buttonWeb1, buttonCalendar1, buttonMap1;
     Button buttonWeb2, buttonCalendar2, buttonMap2;
     Button buttonWeb3, buttonCalendar3, buttonMap3;
+
     TextView textViewStatus;
 
     @Override

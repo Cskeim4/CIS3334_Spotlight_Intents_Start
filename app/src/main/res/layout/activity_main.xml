@@ -103,8 +103,8 @@
         android:id="@+id/imageView"
         android:layout_width="94dp"
         android:layout_height="72dp"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="12dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/buttonWeb1"
         app:srcCompat="@drawable/charolottefrantz" />
@@ -130,8 +130,8 @@
 
     <TextView
         android:id="@+id/textViewDescription2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="396dp"
+        android:layout_height="38dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="8dp"
         android:text="She holds a Masters of Divinity. Frantz has been an avid advocate for the refugee population in Duluth."
